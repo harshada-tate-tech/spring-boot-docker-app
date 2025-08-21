@@ -18,7 +18,7 @@ spec:
   spec:
    containers:
    - name: javawebappcontainer
-     image: ashokit/sb-app
+     image: harshadatate1010/spring_boot_docker_app:latest
      ports:
      - containerPort: 8080
 ---
